@@ -1,1 +1,5 @@
+# Ignore large files which can not be stored on GitHub
 *.csv
+
+# Exclude small files included on the GitHub for reference
+!train_1998_samples_fft_0_to_10_hz_consensus_1.0_balanced.csv
